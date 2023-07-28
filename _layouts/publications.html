@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% include publications.html %}
+
+<div class="row g-5 mb-5">
+    <div class="col-md-12">
+        <h3 class="fw-bold border-bottom pb-3 mb-5">Posters and Presentation</h3>
+        {% for item in site.data.publications.posterpresentation %}
+        <p>{{ item.name }}</p>
+        {% endfor %}
+    </div>
+</div>

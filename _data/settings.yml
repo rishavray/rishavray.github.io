@@ -1,0 +1,25 @@
+menu:
+- {name: 'people', url: '/people'}
+- {name: 'publications', url: '/publications'}
+- {name: 'courses', url: '/courses'}
+- {name: 'cv', url: '/cv'}
+- {name: 'contact', url: '/contact'}
+
+people:
+- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+
+courses:
+- {name: 'Vector Calculus', url: 'vector-calculus'}
+- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+- {name: 'Stellar Structures', url: 'stellar-structures'}
+
+social:
+- {icon: 'github', link: 'https://github.com/rishavray'}
+- {icon: 'twitter', link: 'https://twitter.com/rishsatch'}
+- {icon: 'instagram', link: 'https://instagram.com/rishav.rray'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/rishav-ray'}
+
+contacts:
+- {name: 'Rishav Ray', title: 'PhD Student', department: 'Department of Molecular Ecology', institution: 'Max Planck Institute for Chemical Ecology', institution_address: 'Hans-Knöll-Straße 8, Jena, Germany', phone: '+49 (0)3641 57-1140', office: 'B2.060', email: 'rray@ice.mpg.de, rishav.rray@gmail.com', image: 'assets/img/contact.jpg'}

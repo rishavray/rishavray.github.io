@@ -1,0 +1,10 @@
+- title: Programming languages
+  description: R, MATLAB, Python, Java, C, C++, Perl, HTML+JS+CSS
+- title: Database systems
+  description: MySQL, Oracle, SQLITE
+- title: Software technologies
+  description: Linux, Git, J2EE, LaTeX, Web Development, LAMP, WAMP
+- title: Bioinformatic pipelines
+  description: RNA-Seq, small RNA-Seq, Genome assembly and annotation, Variant Calling, QTL mapping/GWAS, Metabolome analysis
+- title: Lab skills
+  description: DNA/RNA isolation, PCR, metabolite extraction, NanoString DNA assay
