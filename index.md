@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am bioinformatician and currently a PhD student at Max Planck Insitute for Chemical Ecology. I am mostly interested in natural history driven evolutionary questions, agnostic of any particular species. I like to observe the nature, and let it lead to questions which I think about testing them using whatever data I can get my hands on. I also love to capture the nature at the same time, especially birds, in my photo album.
